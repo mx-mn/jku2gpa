@@ -13,3 +13,8 @@ Maybe it is helpful for anyone.
 (venv) % pip install PyMuPDF pandas
 ```
 
+just run:
+
+```
+python main.py filename.pdf
+```
